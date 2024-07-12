@@ -2,7 +2,8 @@ import React from 'react';
 import ShakespeareInfo from './components/ShakespeareInfo';
 import WorkList from './components/WorkList';
 
-function App() {
+function App() 
+{
   return (
     <div className="App">
       <header className="App-header">
@@ -13,5 +14,4 @@ function App() {
     </div>
   );
 }
-
 export default App;
